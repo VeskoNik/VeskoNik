@@ -1,4 +1,15 @@
-<h1>👤 About me:</h1>
+<h1>👤 About Me:</h1>
+<b>I'm a young, ambitious and inclusive leader, who thinks out of the box. Never stops stepping out of his comfort zone to reach new horizons by applying gained knowledge in practical life.Excellent communication and presentation skills.Love coding and always looking for improvement.
+</b>
 
-<h3><b>I'm a young, ambitious and inclusive leader, who thinks out of the box.<br> Never stops stepping out of his comfort zone to reach new horizons by applying gained knowledge in practical life.<br> Excellent communication and presentation skills.<br>Love coding and always looking for improvement.</b></h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vesko.nikolov.31) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/veskonikolov11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/n/veselin-nikolov-a026301a5) 
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VeskoNik&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+![](https://visitcount.itsvg.in/api?id=VeskoNik&icon=5&color=6)
+
+
