@@ -1,4 +1,6 @@
-<h1>👤 About Me:</h1>
+<div align="center">
+
+<h1>👤 About Me</h1>
 <h3><b>I'm a young, ambitious and inclusive leader, who thinks out of the box.<br> Never stops stepping out of his comfort zone to reach new horizons by applying gained knowledge in practical life.<br>Excellent communication and presentation skills.<br>Love coding and always looking for improvement.
 </b></h3>
 <br>
@@ -10,6 +12,6 @@
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 
-![](https://visitcount.itsvg.in/api?id=VeskoNik&icon=5&color=6)
+<h3>Profile Views</h3>
 
-
+<img src="https://profile-counter.glitch.me/VeskoNik/count.svg" data-canonical-src="https://profile-counter.glitch.me/VeskoNik/count.svg" style="max-width: 100%;"></div>
