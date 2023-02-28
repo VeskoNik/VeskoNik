@@ -14,4 +14,11 @@
 
 <h3>Profile Views</h3>
 
-<img src="https://profile-counter.glitch.me/VeskoNik/count.svg" data-canonical-src="https://profile-counter.glitch.me/VeskoNik/count.svg" style="max-width: 100%;"></div>
+<img src="https://profile-counter.glitch.me/VeskoNik/count.svg" data-canonical-src="https://profile-counter.glitch.me/VeskoNik/count.svg" style="max-width: 100%;">
+
+<h3>Repositories</h3>
+  <small>Open with Google Chrome or Mozilla</small>
+
+  <a href="https://veskonik.github.io/Calculator/index.html"><b><i>Calculator</i></b></a><br>
+  <a href="https://veskonik.github.io/vmsPage/vms%20page/index.html"><b><i>vmsPage</i></b></a>
+  </div>
