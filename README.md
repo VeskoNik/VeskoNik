@@ -21,4 +21,5 @@
 
   <a href="https://veskonik.github.io/Calculator/index.html"><b><i>Calculator</i></b></a><br>
   <a href="https://veskonik.github.io/vmsPage/vms%20page/index.html"><b><i>vmsPage</i></b></a>
+  <a href="https://veskonik.github.io/world_Map/World%20Map/index.html"><b><i>World Map</i></b></a>
   </div>
