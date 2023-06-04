@@ -19,7 +19,7 @@
 <h3>Repositories</h3>
   <small>Open with Google Chrome or Mozilla</small>
 
+  <a href="https://ecochallenger.github.io"><b><i>EcoChallenger</i></b></a><br>
   <a href="https://veskonik.github.io/Calculator/index.html"><b><i>Calculator</i></b></a><br>
-  <a href="https://veskonik.github.io/vmsPage/vms%20page/index.html"><b><i>vmsPage</i></b></a><br>
-  <a href="https://veskonik.github.io/world_Map/World%20Map/index.html"><b><i>World Map</i></b></a>
+  <a href="https://veskonik.github.io/CO2-calculator/"><b><i>CO2 Calculator</i></b></a>
   </div>
